@@ -1,4 +1,3 @@
-# student-marks-analyzer
 # Student Marks Analyzer
 
 This project analyzes student marks using Python.
